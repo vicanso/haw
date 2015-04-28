@@ -1,0 +1,18 @@
+{
+  "name": "haw",
+  "description": "stats server",
+  "version": "0.0.1",
+  "main": "app",
+  "dependencies": {
+    "co": "^4.5.2",
+    "debug": "^2.1.3",
+    "lodash": "^3.7.0",
+    "mongoose": "^4.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicanso/haw"
+  },
+  "readme": "# haw"
+}
